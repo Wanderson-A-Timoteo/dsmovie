@@ -36,7 +36,7 @@ function Form() {
           <div className="dsmovie-form-btn-container">
             <button
               type="submit"
-              className="btn btn-primary dsmovie-btn btn-salvar"
+              className="btn btn-success dsmovie-btn btn-salvar"
             >
               Salvar
             </button>
