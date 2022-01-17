@@ -28,6 +28,8 @@ O banckend foi desenvolvido em Java e hospedado no Heroku, já o frontend foi de
 
 ## Acessar o domínio do projeto no Netlify
 
+Tenha paciência e aguarde um momento pois a hospedagem é gratuita e demora um pouco para carregar.
+
 - [Movie Rating (Clique aqui)](https://movie-rating-wat.netlify.app/)
 
 <br>
