@@ -1,4 +1,6 @@
 import { ReactComponent as GithubIcon } from "assets/img/github.svg";
+import MoviesIcon from "assets/img/movies-icon.png";
+
 import "./styles.css";
 
 function Navbar() {
@@ -6,7 +8,10 @@ function Navbar() {
     <header>
       <nav className="container">
         <div className="dsmovie-nav-content">
-          <h1>Movie Rating</h1>
+          <div className="logo-title">
+            <img src={MoviesIcon} alt="Logo" />
+            <h1>Movie Rating</h1>
+          </div>
           <a
             href="https://github.com/Wanderson-A-Timoteo"
             target="_blank"

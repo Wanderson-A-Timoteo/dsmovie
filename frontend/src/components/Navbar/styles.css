@@ -13,8 +13,18 @@ header {
   color: #fff;
 }
 
-.dsmovie-nav-content h1 {
-  margin: 0;
+.logo-title {
+  display: flex;
+  align-items: center;
+}
+
+.logo-title img {
+  width: 30px;
+  height: 30px;
+}
+
+.logo-title h1 {
+  margin: 0 0 0 10px;
   font-weight: 700;
   font-size: 24px;
 }
